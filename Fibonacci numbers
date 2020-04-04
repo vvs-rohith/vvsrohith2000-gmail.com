@@ -1,4 +1,4 @@
-def fibonacci numbers(n):
+def fibonacci_numbers(n):
 	a = 0
 	b = 1
 	print(a)
@@ -16,4 +16,4 @@ def fibonacci numbers(n):
 			a = b 
 			b = c
       
-fibonacci numbers(30)
+fibonacci_numbers(30)
